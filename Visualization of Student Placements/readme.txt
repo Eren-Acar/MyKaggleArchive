@@ -1,6 +1,5 @@
 About Dataset
 
-Edit
 This dataset contains exam scores and grant statuses of students who applied for Erasmus program at a university. Data can be used to analyze performance of students from different faculties and departments, or to create a model that determines whether a student from a faculty with a certain score can receive a grant.
 
 VARIABLES
