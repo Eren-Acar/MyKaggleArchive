@@ -1,2 +1,3 @@
-Kaggle Dataset Link: https://www.kaggle.com/datasets/lizasareen/student-placement-prediction
-Visualization of Student Placements: https://www.kaggle.com/code/acareren/visualization-of-student-placements
+This repository contains the datasets and Jupyter Notebook projects I created on Kaggle.
+
+Please visit: https://www.kaggle.com/acareren
